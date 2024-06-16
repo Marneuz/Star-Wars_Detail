@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22225" systemVersion="22G91" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="CDCharacters" representedClassName="CDCharacters" syncable="YES" codeGenerationType="class">
+        <attribute name="birthYear" attributeType="String" defaultValueString=""/>
+        <attribute name="created" attributeType="String" defaultValueString=""/>
+        <attribute name="edited" attributeType="String" defaultValueString=""/>
+        <attribute name="eyeColor" attributeType="String" defaultValueString=""/>
+        <attribute name="films" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromDataTransformerName" customClassName="[String]"/>
+        <attribute name="gender" optional="YES" attributeType="String" defaultValueString=""/>
+        <attribute name="hairColor" attributeType="String" defaultValueString=""/>
+        <attribute name="height" attributeType="String" defaultValueString=""/>
+        <attribute name="homeworld" attributeType="String" defaultValueString=""/>
+        <attribute name="mass" attributeType="String" defaultValueString=""/>
+        <attribute name="name" attributeType="String" defaultValueString=""/>
+        <attribute name="skinColor" attributeType="String" defaultValueString=""/>
+        <attribute name="species" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromDataTransformerName" customClassName="[String]"/>
+        <attribute name="starships" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromDataTransformerName" customClassName="[String]"/>
+        <attribute name="url" attributeType="String" defaultValueString=""/>
+        <attribute name="vehicles" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromDataTransformerName" customClassName="[String]"/>
+    </entity>
+</model>

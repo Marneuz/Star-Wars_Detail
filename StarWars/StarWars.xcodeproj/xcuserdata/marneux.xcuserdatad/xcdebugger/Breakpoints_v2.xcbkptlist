@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "66DE1E0B-4903-4D54-9D08-57C20C2BCA24"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59CECF7B-CE24-4EA9-B629-13D5376DC0BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StarWars/Data/Services/Characters/Local/CoreDataCharactersLocalService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "removeFavoriteCharacter(character:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "59CECF7B-CE24-4EA9-B629-13D5376DC0BB - 3c7b5c5d802e4245"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for StarWars.CoreDataCharactersLocalService.removeFavoriteCharacter(character: StarWars.Character) async throws -&gt; ()"
+                  moduleName = "StarWars"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcosangelcalvogarcia/Documents/iOS%20Projects/StarWars/StarWars/Data/Services/Characters/Local/CoreDataCharactersLocalService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "59CECF7B-CE24-4EA9-B629-13D5376DC0BB - 8d27e21ad87e9eb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (StarWars.CDCharacters) -&gt; Swift.Bool in StarWars.CoreDataCharactersLocalService.removeFavoriteCharacter(character: StarWars.Character) async throws -&gt; ()"
+                  moduleName = "StarWars"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcosangelcalvogarcia/Documents/iOS%20Projects/StarWars/StarWars/Data/Services/Characters/Local/CoreDataCharactersLocalService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
